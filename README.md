@@ -1,7 +1,7 @@
 # vue-todo
 
 ## Description
-VueJS study
+VueJS study, building a todo list
 
 ## Project setup
 ```
