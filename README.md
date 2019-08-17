@@ -33,3 +33,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Based on
 Tutorial [Vue Crash Course 2019](https://www.youtube.com/watch?v=Wy9q22isx3U)
+
+### Resources
+Fake data from [jsonplaceholder](https://jsonplaceholder.typicode.com/todos)

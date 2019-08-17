@@ -8,7 +8,8 @@
 </template>
 
 <script>
-import uuid from 'uuid';
+// Only to be used without API call to return a unique id
+// import uuid from 'uuid';
 
 export default {
     name: "AddTodo",
@@ -21,11 +22,12 @@ export default {
         addTodo(e) {
             e.preventDefault();
             const newTodo = {
-                id: uuid.v4(),
+                // id: uuid.v4(),
                 title: this.title,
                 completed: false
             }
             this.$emit('add-todo', newTodo);
+            this.title = "";
         }
     }
 }
