@@ -1,5 +1,8 @@
 # vue-todo
 
+## Description
+VueJS study
+
 ## Project setup
 ```
 npm install
@@ -28,5 +31,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Resources
+### Based on
 Tutorial [Vue Crash Course 2019](https://www.youtube.com/watch?v=Wy9q22isx3U)
